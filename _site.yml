@@ -7,6 +7,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Books"
+      href: books.html
       menu:
       - text: "機會效應"
         href: chance.html
@@ -15,4 +16,3 @@ navbar:
 output:
   html_document:
     theme: cosmo
-    css: styles.css

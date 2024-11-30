@@ -1,0 +1,19 @@
+---
+title: "書單"
+output: html_document
+---
+<style>
+/* Optional: Hide the default title if needed */
+.title {
+  display: none;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 20px; /* Adjust title font size */
+  text-align: left; /* Align the title to the left */
+}
+</style>
+<h1>book list:</h1>
+- [機會效應](chance.html)
+- [莫守成規](rebel_talent.html)
