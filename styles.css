@@ -1,0 +1,9 @@
+.navbar .dropdown-menu a {
+  pointer-events: auto; /* Ensure dropdown links are clickable */
+  color: #000; /* Set the link color */
+}
+
+.navbar .dropdown-menu a:hover {
+  color: #0056b3; /* Optional: Add a hover effect */
+  text-decoration: underline; /* Optional: Underline the link on hover */
+}

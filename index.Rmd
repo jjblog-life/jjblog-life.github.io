@@ -27,9 +27,16 @@ library(icons)
 </div>
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
+<style>
+/* Custom title and subtitle styling */
+h1 {
+  font-family: "PingFang SC", "Microsoft YaHei", "SimSun", sans-serif;
+  font-size: 20px; /* Adjust title font size */
+  text-align: left; /* Align the title to the left */
+}
 
-
-####  Hi!你好！
+</style>
+<h1> Hi!你好！</h1>
 
 
 
