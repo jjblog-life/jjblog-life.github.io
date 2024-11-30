@@ -1,0 +1,70 @@
+---
+title: "機會效應：掌握人生轉折點，察覺成功之路的偶然與必然"
+output: html_document
+---
+
+<style>
+/* Custom title and subtitle styling */
+h1 {
+  font-weight: bold;
+  font-size: 20px; /* Adjust title font size */
+  text-align: left; /* Align the title to the left */
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 16px; /* Adjust subtitle font size */
+  text-align: left; /* Align the subtitle to the left */
+  color: gray; /* Subtitle text color */
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 16px; /* Adjust the font size */
+  color: #333; /* Optional: Change text color */
+}
+
+/* Optional: Hide the default title if needed */
+.title {
+  display: none;
+}
+
+/* General body text styling */
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", "SimSun", sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
+}
+</style>
+
+<!-- Custom Title and Author -->
+<h1>機會效應：掌握人生轉折點，察覺成功之路的偶然與必然</h1>
+<h2>作者：洪震宇</h2>
+
+<div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; padding-top: 20px; padding-left: 20px; padding-right: 20px">
+  <ul>
+    <li>能洞察到美麗的事物，就是創新的開始。創新的前提就是擁抱不確定，充滿好奇心，願意探索與發現，最後洞察出隱藏版的機會，大膽押注，投入時間、資源與專業，創造真正的改變。</li>
+    <li>所謂勇氣，就是願意接受不確定的挑戰。我們要對偶然開一扇門，不要把一切都規劃好，失去隨機應變的能力，人生才有隱藏版的樂趣。</li>
+    <li>脆弱的相反不是兼任強固，塔雷伯（反脆弱作者）稱為「反脆弱」。這是與時俱進、會在波動、混亂與隨機環境中成長茁壯，喜歡冒險與不確定的特質；在黑天鵝世界中，這是能隨環境調整，避免受不確定意外打擊的能力與心態。</li>
+  </ul>
+ <h3>變化性大、看似混亂的工作，反而因為習慣各種無法預期的挑戰，更具有反脆弱的特質。</h3>
+<div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; padding-left: 20px; padding-right: 20px">
+  <ul>
+    <li>外在的社會制約永遠都在，但是人總有基本需求，要找到生命中能驅動自己的核心，先做一件小事，帶你去下一步，才會有新的可能性與機會。這是事先想不到的，因為我們的大腦只能根據原本的經驗跟體驗歸納整理，找出安全模式，但是未來是過去從未經歷的，萬一過度恐懼，就不會有新的可能性。</li>
+    <li>學習「超級偶遇者」的特質，廣泛學習不一樣的知識與專業，從混亂中找到有趣的事物，賦予新的意義與特色，重新整合新的內容，創新的機會與秩序。</li>
+    <li>放下恐懼，給自己一個機會去嘗試和真正想做的事，體會他為生命帶來的改變。</li>
+    <li>管理學者克里斯汀生在《創新者的ＤＮＡ》提到，創新者與眾不同的創新構想，源自「發現商數」( discovery quotient，簡稱ＤＱ），也就是五個發現技巧的運用能力，包括疑問、觀察、社交、實驗與聯想；也就是能提出疑問，觀察周遭世界，有多樣化人脈，不斷嘗試新體驗、新構想，最後能將非相關領域的問題與構想連結起來。</li>
+    <li>誰說絕境沒有機會？沒有人喜歡絕境，一旦陷入絕境，切勿用老方式來求救。絕境的產生，除了外在大環境的因素，往往也是因為原有的招式已經過時退化。先改變自己的慣性思考，藉由絕境逆轉的關鍵字～改變認知、洞察需求、連結自己的優勢、持續擴大行動～才能找到改變現狀的機會。</li>
+  </ul>
+  <h3>沒有人的生命是容易的，要在不容易中獲得自在容易，就需要正視絕境帶來的力量。</h3>
+<div class="row" style="text-align: justify; font-size:15px; text-justify: inter-word; padding-left: 20px; padding-right: 20px">
+  <ul>
+    <li>絕境逼迫我們靈活，更帶來創造的機會，「所謂獨創新意，就是在絕望的邊緣跳舞，是和誘人的安全感打仗，沒有捷徑，沒有公式，沒有前人已經踏平的勝利之路，考驗本就無所不在。」《搶救皮克斯》寫著。</li>
+    <li>破壞式創新的關鍵有變與不變。不變的是具備開放態度、好奇心與探索未知的勇氣，改變的是了解顧客需求變化，以及自我能力的提升與破壞。要培養不變的能力，我們平常可以做的，就是開窗與照鏡。開窗是由外而內，從外部角度、他人觀點來了解各種複雜議題，質疑傳統，避免慣性思考或是基本歸因謬誤；照鏡則是由內而外，經常自我反省，保持獨立思考，察覺個人偏見。</li>
+    <li>日本知名的設計大師水野學在《點子黏著劑》中提到，想要獲得最佳創意提案，光靠自我判斷，相信自己絕對正確，最終只能答對百分之五十一，也就是已知的常識或定理；剩下的百分之四十九是不確定，意想不到，但未來有可能發生的事情。</li>
+  </ul>
+
+我延伸五十一％與四十九％的意涵。自己能掌握的專案佔五十一％，不能掌握的個人主觀想法、不確定的人事物變化，則佔四十九％。一件事的成功，要達到一百％，就得靠主客觀的結合，缺一不可。
+我們的機會，不再主觀能掌握的五十一％，而在客觀無法掌握的四十九％，如果我們一直精進自己的專業，卻忽視別人的狀況與需求，就會越鑽越深，離現實越來越遠。
+
+</div>

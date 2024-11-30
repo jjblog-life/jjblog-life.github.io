@@ -1,0 +1,36 @@
+---
+title: "About"
+output: html_document
+---
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+
+</style>
+
+<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
+
+<img src="images/webphoto.jpg" alt="photo" width="200" height="200" style="float:center">
+
+```{r, include=FALSE, echo = F}
+library(icons)
+```
+
+# Joyce Liu
+
+`joyce0306@gmail.com`
+
+</div>
+
+<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
+
+
+#### Hi!
+
+
+
+</div>

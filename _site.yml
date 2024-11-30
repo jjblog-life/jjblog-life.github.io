@@ -1,0 +1,17 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Joyce Liu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Books"
+      #href: books.html
+      menu:
+      - text: "機會效應"
+        href: chance.html
+      - text: "Page B"
+        href: page-b.html
+output:
+  html_document:
+    theme: cosmo
