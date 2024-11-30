@@ -10,8 +10,8 @@ navbar:
       menu:
       - text: "機會效應"
         href: chance.html
-      - text: "Page B"
-        href: page-b.html
+      - text: "莫守成規"
+        href: rebel_talent.html
 output:
   html_document:
     theme: cosmo
