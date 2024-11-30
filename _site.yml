@@ -1,0 +1,17 @@
+name: "my-website"
+output_dir: "."
+site: "default"
+navbar:
+  title: "Joyce Liu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Books"
+      menu:
+      - text: "機會效應"
+        href: chance.html
+      - text: "莫守成規"
+        href: rebel_talent.html
+output:
+  html_document:
+    theme: cosmo
