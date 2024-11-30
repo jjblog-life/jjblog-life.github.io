@@ -1,0 +1,17 @@
+---
+title: "random"
+output: html_document
+---
+<style>
+/* Optional: Hide the default title if needed */
+.title {
+  display: none;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 20px; /* Adjust title font size */
+  text-align: left; /* Align the title to the left */
+}
+</style>
+11/29 test

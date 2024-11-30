@@ -13,6 +13,8 @@ navbar:
         href: chance.html
       - text: "莫守成規"
         href: rebel_talent.html
+    - text: "閒聊"
+      href: random.html
 output:
   html_document:
     theme: cosmo
